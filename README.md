@@ -1,2 +1,2 @@
 # Portfolio
-This section contains my works created with Blender
+This section contains my works created in Blender
